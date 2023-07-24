@@ -1,3 +1,5 @@
+## This is a bad idea.
+
 # Web Environment Integrity API
 
 This repository details the proposal to add a new API for determining the integrity
